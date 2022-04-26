@@ -1,6 +1,6 @@
 # Hello there, I'm Faustin
 
-## Description
+<br/>
 
 > Student at <a href="https://www.efrei.fr/">Efrei Paris</a> - *60%*
 
